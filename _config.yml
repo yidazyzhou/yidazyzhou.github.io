@@ -1,8 +1,8 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 周益达 | Hux Blog
+title: zhouyida Blog
+SEOTitle: 周益达 | zhouyida Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: zhouyidapro@gmail.com
 description: "这里是 @zyz周亦哲 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "周亦哲, zyz周亦哲, zyz, 周亦哲的博客, zyz Blog, 博客, 个人网站, 互联网, Web, LLM, JAVA, 架构,Big Data, 设计"
 url: "https://zhouyida.me" # your host, for absolute URL
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: zhouyidapro
+zhihu_username: zhouyidapro
+github_username: zhouyidapro
+twitter_username: zhouyidapro
+#facebook_username:  zhouyidapro
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: zhouyida
 
 # Netease settings
 netease_comment: false
@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/zhouyidapro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
